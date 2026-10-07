@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bands.modernboxrecords.org/sitemap.xml
